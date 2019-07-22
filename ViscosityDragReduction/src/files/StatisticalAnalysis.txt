@@ -1,0 +1,11 @@
+What we need to do:
+We need to measure the probability of the null Hypothesis. P
+   The P value; is the probability that the true means of two probability 
+   distributions are the same.  For us, the first probability distribution
+    might be viscosity, and the second distribution might be drag reduction.  
+    However, of course the mean value of the viscosity can't equal the mean 
+    value of the drag reduction.   Perhaps we need to normalize the viscosity 
+    values and drag reduction values first, and then calculate the P value.  
+    I will look for a paper that tells us the best approach
+
+
